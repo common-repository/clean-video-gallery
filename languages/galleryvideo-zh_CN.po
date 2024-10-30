@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-09 11:09-0500\n"
+"PO-Revision-Date: 2013-01-09 11:09-0500\n"
+"Last-Translator: hupeidong <zhouyibhic@gmail.com>\n"
+"Language-Team: Ted Mosby <tmosbyd@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Ukrainian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gallery-plugin-video.php:105
+#: gallery-plugin-video.php:775
+msgid "The following files \"gallery-video-template.php\" and \"gallery-video-single-template.php\" were not found in the directory of your theme. Please copy them from the directory `/wp-content/plugins/MPQ Video Gallery Folder/template/` to the directory of your theme for the correct work of the plugin"
+msgstr ""
+
+#: gallery-plugin-video.php:129
+#: gallery-plugin-video.php:139
+msgid "Video Galleries"
+msgstr "视频集"
+
+#: gallery-plugin-video.php:130
+#: gallery-plugin-video.php:665
+msgid "Video Gallery"
+msgstr "视频"
+
+#: gallery-plugin-video.php:131
+msgid "Add New"
+msgstr "添加视频集"
+
+#: gallery-plugin-video.php:132
+msgid "Add New Video Gallery"
+msgstr "添加新视频集"
+
+#: gallery-plugin-video.php:133
+msgid "Edit Video Gallery"
+msgstr "编辑视频集"
+
+#: gallery-plugin-video.php:134
+msgid "New Video Gallery"
+msgstr "新加视频集"
+
+#: gallery-plugin-video.php:135
+msgid "View Video Gallery"
+msgstr "查看视频集"
+
+#: gallery-plugin-video.php:136
+msgid "Search Video Galleries"
+msgstr "搜索视频集"
+
+#: gallery-plugin-video.php:137
+msgid "No Video Galleries found"
+msgstr "没有发现任何视频集"
+
+#: gallery-plugin-video.php:196
+msgid "Upload File"
+msgstr "快速批量上传视频"
+
+#: gallery-plugin-video.php:197
+msgid "Video Gallery Shortcode"
+msgstr "视频集文章嵌入码"
+
+#: gallery-plugin-video.php:213
+msgid "The gallery temp directory (MPQ Video Gallery Folder/upload/files) not writeable by your webserver. Please use the standard WP functional to upload the images (media library)"
+msgstr ""
+
+#: gallery-plugin-video.php:217
+msgid "Choose an video to upload:"
+msgstr "选择视频上传（按键盘上的'Shift'或者'Ctrl'键可以选择多个文件）"
+
+#: gallery-plugin-video.php:222
+msgid "Please enable JavaScript to use the file uploader."
+msgstr "您的浏览器没有设置运行Javascript，无法上传视频。"
+
+#: gallery-plugin-video.php:229
+msgid "Allow download link for videos in this gallery"
+msgstr ""
+
+#: gallery-plugin-video.php:230
+msgid "Please use drag and drop function to change the order of the output of videos and do not forget to save post."
+msgstr ""
+
+#: gallery-plugin-video.php:232
+msgid "Please do not forget to select "
+msgstr ""
+
+#: gallery-plugin-video.php:232
+#: gallery-plugin-video.php:826
+msgid "Attachments order by"
+msgstr ""
+
+#: gallery-plugin-video.php:232
+msgid "attachments order"
+msgstr ""
+
+#: gallery-plugin-video.php:232
+msgid "in the settings of the plugin (page "
+msgstr ""
+
+#: gallery-plugin-video.php:280
+msgid "Delete"
+msgstr "删除"
+
+#: gallery-plugin-video.php:294
+msgid "You can add the Single Gallery on the page or in the post by inserting this shortcode in the content"
+msgstr "通过添加以下代码到您写的文章中,可以在文章中显示本视频"
+
+#: gallery-plugin-video.php:296
+msgid "If you want to take a brief display of the gallery with a link to a Single Sallery Page"
+msgstr ""
+
+#: gallery-plugin-video.php:480
+msgid "Title"
+msgstr "标题"
+
+#: gallery-plugin-video.php:481
+msgid "Author"
+msgstr "作者"
+
+#: gallery-plugin-video.php:482
+msgid "Photo's"
+msgstr "照片"
+
+#: gallery-plugin-video.php:483
+msgid "Public"
+msgstr "公开"
+
+#: gallery-plugin-video.php:484
+msgid "Date"
+msgstr "日期"
+
+#: gallery-plugin-video.php:634
+msgid "Activated plugins"
+msgstr "激活的插件"
+
+#: gallery-plugin-video.php:636
+#: gallery-plugin-video.php:644
+#: gallery-plugin-video.php:652
+msgid "Read more"
+msgstr "查看更多"
+
+#: gallery-plugin-video.php:636
+#: gallery-plugin-video.php:881
+#: gallery-plugin-video.php:896
+msgid "Settings"
+msgstr "设置"
+
+#: gallery-plugin-video.php:642
+msgid "Installed plugins"
+msgstr "安装的插件"
+
+#: gallery-plugin-video.php:650
+msgid "Recommended plugins"
+msgstr "推荐插件"
+
+#: gallery-plugin-video.php:652
+msgid "Download"
+msgstr "下载"
+
+#: gallery-plugin-video.php:652
+#, php-format
+msgid "Install %s"
+msgstr "安装百分比 %s"
+
+#: gallery-plugin-video.php:652
+msgid "Install now from wordpress.org"
+msgstr "现在从 wordpress.org 安装"
+
+#: gallery-plugin-video.php:654
+msgid "If you have any questions, please contact us via zhouyibhic@gmail.com or fill in our contact form on our site"
+msgstr ""
+
+#: gallery-plugin-video.php:689
+msgid "Watch videos &raquo;"
+msgstr "查看视频 &raquo;"
+
+#: gallery-plugin-video.php:691
+msgid "Return to all albums"
+msgstr "返回视频集列表"
+
+#: gallery-plugin-video.php:768
+msgid "Options saved."
+msgstr "设置保存完毕"
+
+#: gallery-plugin-video.php:782
+msgid "Gallery Options"
+msgstr "相册设置"
+
+#: gallery-plugin-video.php:785
+msgid "If you would like to add a Single Gallery to your page or post, just copy and put this shortcode onto your post or page content:"
+msgstr ""
+
+#: gallery-plugin-video.php:789
+msgid "The size of the cover album for gallery"
+msgstr "相册封面大小"
+
+#: gallery-plugin-video.php:791
+#: gallery-plugin-video.php:799
+msgid "Image size name"
+msgstr "图片大小名字"
+
+#: gallery-plugin-video.php:792
+#: gallery-plugin-video.php:800
+msgid "Width (in px)"
+msgstr "宽度（单位：像素）"
+
+#: gallery-plugin-video.php:793
+#: gallery-plugin-video.php:801
+msgid "Height (in px)"
+msgstr "高度（单位：像素）"
+
+#: gallery-plugin-video.php:797
+msgid "Size for gallery image"
+msgstr "图片大小"
+
+#: gallery-plugin-video.php:805
+msgid "WordPress will create a copy of the post thumbnail with the specified dimensions when you upload a new photo."
+msgstr "网站会生成一个上传图片的预设大小缩略图"
+
+#: gallery-plugin-video.php:808
+msgid "Count images in row"
+msgstr "每行显示图片数量"
+
+#: gallery-plugin-video.php:814
+msgid "Start slideshow"
+msgstr ""
+
+#: gallery-plugin-video.php:820
+msgid "Slideshow interval"
+msgstr ""
+
+#: gallery-plugin-video.php:828
+msgid "attachment id"
+msgstr ""
+
+#: gallery-plugin-video.php:829
+msgid "attachment title"
+msgstr ""
+
+#: gallery-plugin-video.php:830
+#, fuzzy
+msgid "date"
+msgstr "日期"
+
+#: gallery-plugin-video.php:831
+msgid "attachments order (the integer fields in the Insert / Upload Media Gallery dialog )"
+msgstr ""
+
+#: gallery-plugin-video.php:832
+msgid "random"
+msgstr ""
+
+#: gallery-plugin-video.php:836
+msgid "Attachments order"
+msgstr ""
+
+#: gallery-plugin-video.php:838
+msgid "ASC (ascending order from lowest to highest values - 1, 2, 3; a, b, c)"
+msgstr ""
+
+#: gallery-plugin-video.php:839
+msgid "DESC (descending order from highest to lowest values - 3, 2, 1; c, b, a)"
+msgstr ""
+
+#: gallery-plugin-video.php:843
+msgid "Display Return link"
+msgstr ""
+
+#: gallery-plugin-video.php:849
+msgid "Display Return link in shortcode"
+msgstr ""
+
+#: gallery-plugin-video.php:855
+msgid "Label for Return link"
+msgstr ""
+
+#: gallery-plugin-video.php:861
+msgid "Label for Read More link"
+msgstr ""
+
+#: gallery-plugin-video.php:869
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: gallery-plugin-video.php:882
+msgid "FAQ"
+msgstr "问答 "
+
+#: gallery-plugin-video.php:883
+msgid "Support"
+msgstr "帮助"
+
+#: gallery-plugin-video.php:1064
+#: template/gallery-video-single-template.php:87
+msgid "Sorry - nothing to found."
+msgstr "对不起，没有找到"
+
+#: gallery-plugin-video.php:1083
+#: template/gallery-video-single-template.php:109
+msgid "Download High resolution image"
+msgstr ""
+
+#: template/gallery-video-single-template.php:109
+msgid "Image "
+msgstr ""
+
+#~ msgid "See photo &raquo;"
+#~ msgstr "查看相册 &raquo;"
+
+#~ msgid "Gallery"
+#~ msgstr "相册"
+
+#~ msgid "Size for gallery album cover"
+#~ msgstr "Размер для "
